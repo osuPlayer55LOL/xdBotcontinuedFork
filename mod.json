@@ -5,10 +5,10 @@
 		"android": "2.2074"
 	},
 	"version": "2.4.1",
-	"id": "zilko.xdbot",
-	"name": "xdBot",
-	"developer": "Zilko",
-	"description": "Best Free Bot fr",
+	"id": "nova.lolbot",
+	"name": "lolBot",
+	"developer": "NovaGD26",
+	"description": "GD",
 	"dependencies": [
 		{
 			"id": "geode.custom-keybinds",
